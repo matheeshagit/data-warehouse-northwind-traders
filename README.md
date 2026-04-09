@@ -4,7 +4,7 @@
 This project demonstrates the design and implementation of a Data Warehouse solution using the Northwind Traders dataset. The goal was to transform raw operational data into structured, analysis-ready data.
 
 ## 🏗️ Architecture
-![Architecture](images/architecture.png)
+![Architecture](images/architecture.jpg)
 
 ## ⚙️ Tools & Technologies
 - Microsoft SQL Server
