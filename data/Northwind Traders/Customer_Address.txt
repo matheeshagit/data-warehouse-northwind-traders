@@ -1,0 +1,92 @@
+AddressID,CustomerID,City,Country,Region,Continent
+1,ALFKI,Berlin,Germany,Western Europe,Europe
+2,ANATR,Mexico City,Mexico,Latin America,North America
+3,ANTON,Mexico City,Mexico,Latin America,North America
+4,AROUT,London,UK,Western Europe,Europe
+5,BERGS,Luleå,Sweden,Northern Europe,Europe
+6,BLAUS,Mannheim,Germany,Western Europe,Europe
+7,BLONP,Strasbourg,France,Western Europe,Europe
+8,BOLID,Madrid,Spain,Southern Europe,Europe
+9,BONAP,Marseille,France,Western Europe,Europe
+10,BOTTM,Tsawassen,Canada,North America,North America
+11,BSBEV,London,UK,Western Europe,Europe
+12,CACTU,Buenos Aires,Argentina,Latin America,South America
+13,CENTC,Mexico City,Mexico,Latin America,North America
+14,CHOPS,Bern,Switzerland,Western Europe,Europe
+15,COMMI,Sao Paulo,Brazil,Latin America,South America
+16,CONSH,London,UK,Western Europe,Europe
+17,DRACD,Aachen,Germany,Western Europe,Europe
+18,DUMON,Nantes,France,Western Europe,Europe
+19,EASTC,London,UK,Western Europe,Europe
+20,ERNSH,Graz,Austria,Western Europe,Europe
+21,FAMIA,Sao Paulo,Brazil,Latin America,South America
+22,FISSA,Madrid,Spain,Southern Europe,Europe
+23,FOLIG,Lille,France,Western Europe,Europe
+24,FOLKO,Bräcke,Sweden,Northern Europe,Europe
+25,FRANK,München,Germany,Western Europe,Europe
+26,FRANR,Nantes,France,Western Europe,Europe
+27,FRANS,Torino,Italy,Southern Europe,Europe
+28,FURIB,Lisboa,Portugal,Southern Europe,Europe
+29,GALED,Barcelona,Spain,Southern Europe,Europe
+30,GODOS,Sevilla,Spain,Southern Europe,Europe
+31,GOURL,Campinas,Brazil,Latin America,South America
+32,GREAL,Eugene,USA,North America,North America
+33,GROSR,Caracas,Venezuela,Latin America,South America
+34,HANAR,Rio de Janeiro,Brazil,Latin America,South America
+35,HILAA,San Cristóbal,Venezuela,Latin America,South America
+36,HUNGC,Elgin,USA,North America,North America
+37,HUNGO,Cork,Ireland,Western Europe,Europe
+38,ISLAT,Cowes,UK,Western Europe,Europe
+39,KOENE,Brandenburg,Germany,Western Europe,Europe
+40,LACOR,Versailles,France,Western Europe,Europe
+41,LAMAI,Toulouse,France,Western Europe,Europe
+42,LAUGB,Vancouver,Canada,North America,North America
+43,LAZYK,Walla Walla,USA,North America,North America
+44,LEHMS,Frankfurt a.M.,Germany,Western Europe,Europe
+45,LETSS,San Francisco,USA,North America,North America
+46,LILAS,Barquisimeto,Venezuela,Latin America,South America
+47,LINOD,I. de Margarita,Venezuela,Latin America,South America
+48,LONEP,Portland,USA,North America,North America
+49,MAGAA,Bergamo,Italy,Southern Europe,Europe
+50,MAISD,Bruxelles,Belgium,Western Europe,Europe
+51,MEREP,Montréal,Canada,North America,North America
+52,MORGK,Leipzig,Germany,Western Europe,Europe
+53,NORTS,London,UK,Western Europe,Europe
+54,OCEAN,Buenos Aires,Argentina,Latin America,South America
+55,OLDWO,Anchorage,USA,North America,North America
+56,OTTIK,Köln,Germany,Western Europe,Europe
+57,PARIS,Paris,France,Western Europe,Europe
+58,PERIC,Mexico City,Mexico,Latin America,North America
+59,PICCO,Salzburg,Austria,Western Europe,Europe
+60,PRINI,Lisboa,Portugal,Southern Europe,Europe
+61,QUEDE,Rio de Janeiro,Brazil,Latin America,South America
+62,QUEEN,Sao Paulo,Brazil,Latin America,South America
+63,QUICK,Cunewalde,Germany,Western Europe,Europe
+64,RANCH,Buenos Aires,Argentina,Latin America,South America
+65,RATTC,Albuquerque,USA,North America,North America
+66,REGGC,Reggio Emilia,Italy,Southern Europe,Europe
+67,RICAR,Rio de Janeiro,Brazil,Latin America,South America
+68,RICSU,Genève,Switzerland,Western Europe,Europe
+69,ROMEY,Madrid,Spain,Southern Europe,Europe
+70,SANTG,Stavern,Norway,Northern Europe,Europe
+71,SAVEA,Boise,USA,North America,North America
+72,SEVES,London,UK,Western Europe,Europe
+73,SIMOB,Kobenhavn,Denmark,Northern Europe,Europe
+74,SPECD,Paris,France,Western Europe,Europe
+75,SPLIR,Lander,USA,North America,North America
+76,SUPRD,Charleroi,Belgium,Western Europe,Europe
+77,THEBI,Portland,USA,North America,North America
+78,THECR,Butte,USA,North America,North America
+79,TOMSP,Münster,Germany,Western Europe,Europe
+80,TORTU,Mexico City,Mexico,Latin America,North America
+81,TRADH,Sao Paulo,Brazil,Latin America,South America
+82,TRAIH,Kirkland,USA,North America,North America
+83,VAFFE,Århus,Denmark,Northern Europe,Europe
+84,VICTE,Lyon,France,Western Europe,Europe
+85,VINET,Reims,France,Western Europe,Europe
+86,WANDK,Stuttgart,Germany,Western Europe,Europe
+87,WARTH,Oulu,Finland,Northern Europe,Europe
+88,WELLI,Resende,Brazil,Latin America,South America
+89,WHITC,Seattle,USA,North America,North America
+90,WILMK,Helsinki,Finland,Northern Europe,Europe
+91,WOLZA,Warszawa,Poland,Eastern Europe,Europe
