@@ -26,10 +26,38 @@ Key implementations:
 - Fact and Dimension tables
 - Star schema design
 
+## 📊 OLAP & Reporting
+
+### 🔹 OLAP Cube (SSAS)
+- Designed a multidimensional cube for fast analytical queries
+- Defined measures (e.g., Sales, Quantity)
+- Created dimensions and hierarchies (Time, Product, Region)
+
+### 🔹 Excel OLAP Analysis
+- Connected Excel to the OLAP cube
+- Performed slice, dice, and drill-down operations
+- Analyzed trends across multiple dimensions
+
+### 🔹 Power BI Dashboards
+- Built interactive dashboards using Power BI
+- Visualized:
+  - Sales trends over time
+  - Regional performance
+  - Product-level insights
+
+---
+
 ## 🎯 Key Outcomes
 - Improved data consistency through staging layer
 - Enabled historical tracking using SCD
-- Prepared data for analytical processing
+- Built a complete pipeline: ETL → Data Warehouse → OLAP → Visualization
+- Enabled faster analytical queries and decision-making
 
-## 🚀 Next Steps
-This warehouse was later extended with OLAP cubes and Power BI dashboards for analytics.
+---
+
+## 📸 Sample Outputs
+- OLAP Cube structure
+- Excel pivot analysis
+- Power BI dashboard
+
+---
